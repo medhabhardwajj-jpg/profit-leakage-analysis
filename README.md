@@ -20,3 +20,6 @@ This project identifies factors causing profit leakage.
 
 ## Dashboard Preview
 ![Dashboard](images/dashboard_screenshot.png)
+
+## Live Dashboard
+[View Dashboard](https://public.tableau.com/views/Book1_17746214320690/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
